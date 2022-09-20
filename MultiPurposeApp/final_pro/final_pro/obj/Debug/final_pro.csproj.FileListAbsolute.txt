@@ -1,0 +1,51 @@
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe.config
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.pdb
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Properties.Resources.resources
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.GenerateResource.Cache
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.exe
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.pdb
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\Interop.WMPLib.dll
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.ResolveComReference.cache
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\Interop.WMPLib.dll
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Note.resources
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Calculator.resources
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Analog.resources
+C:\Users\ProBook\Documents\Visual Studio 2013\Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Smart.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe.config
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\Interop.WMPLib.dll
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\AxInterop.WMPLib.dll
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.ResolveComReference.cache
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.exe
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.pdb
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.pdb
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\bin\Debug\Interop.WMPLib.dll
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\bin\Debug\AxInterop.WMPLib.dll
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csprojResolveAssemblyReference.cache
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Calculator.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Smart.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Analog.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Note.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Properties.Resources.resources
+F:\College Career Courses\C++ and C#\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.GenerateResource.Cache
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe.config
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\Interop.WMPLib.dll
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.ResolveComReference.cache
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.exe
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.pdb
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.exe
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\final_pro.pdb
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\Interop.WMPLib.dll
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csprojResolveAssemblyReference.cache
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Calculator.resources
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Smart.resources
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Analog.resources
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Note.resources
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.Properties.Resources.resources
+C:\Users\Saeid\Desktop\C#Projects\cscourse\cs_class\final_pro\final_pro\obj\Debug\final_pro.csproj.GenerateResource.Cache

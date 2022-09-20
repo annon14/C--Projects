@@ -1,0 +1,9 @@
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.exe.config
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.exe
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.pdb
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.csprojResolveAssemblyReference.cache
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.Form1.resources
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.Properties.Resources.resources
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.csproj.GenerateResource.Cache
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.exe
+c:\users\probook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.pdb

@@ -1,0 +1,18 @@
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.exe.config
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.exe
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.pdb
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.exe
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\bin\Debug\cscourse.pdb
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.Properties.Resources.resources
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\ProBook\documents\visual studio 2013\Projects\cscourse\cscourse\obj\Debug\cscourse.frmCalc.resources
+F:\College Career Courses\C++ and C#\cscourse\cscourse\bin\Debug\cscourse.exe.config
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\cscourse.exe
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\cscourse.pdb
+F:\College Career Courses\C++ and C#\cscourse\cscourse\bin\Debug\cscourse.exe
+F:\College Career Courses\C++ and C#\cscourse\cscourse\bin\Debug\cscourse.pdb
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\cscourse.frmCalc.resources
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\cscourse.Properties.Resources.resources
+F:\College Career Courses\C++ and C#\cscourse\cscourse\obj\Debug\calculator.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+this project is a multitask application
+this aplication consists of :
+	1.Analog clock
+	2.Scientific calculator
+	3.Notepad
+	4.Digital clock
+	5.Stop watch
+	6.Calender
+	7. player
